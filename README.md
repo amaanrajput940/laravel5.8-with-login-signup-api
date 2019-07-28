@@ -1,5 +1,13 @@
 ## Laravel 5.8 Boilerplate with Login SignUp User Info and Logout
 
+### Composer
+
+composer install
+
+### Run
+
+php artisan server
+
 ### Official Documentation
 
 [Click here for the official documentation](https://laravel.com/docs/5.8)
